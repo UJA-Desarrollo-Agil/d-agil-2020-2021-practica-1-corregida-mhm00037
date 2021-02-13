@@ -6,7 +6,6 @@ Tu tarea consiste en modificar este fichero README.md de modo que pongas tus dat
 ### Víctor M. Rivas Santos
 
 Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Correo**: mhm00037@red.ujaen.es
+* **GitHub**: https://github.com/mhm00037/
+* **Trello**: https://trello.com/mariahidalgo35/boards
